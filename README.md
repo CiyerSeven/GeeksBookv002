@@ -108,7 +108,15 @@ lib/
 ```
 
 ## Demo Video
-https://www.youtube.com/watch?v=KrWW7Nq4zWI
+
+#nms-web
+
+
+
+https://github.com/user-attachments/assets/9738d9bd-3f00-49f4-8f2e-4edbed2e8842
+
+
+
 
 ## Ekran Görüntüleri
 ![Ana Sayfa](assets/screenshots/Screenshot_20250130_180054.png)
