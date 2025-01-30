@@ -4,8 +4,8 @@ import '../screens/loading.dart';
 import '../screens/login_screen.dart';
 import '../screens/home_content_screen.dart';
 import '../screens/content_detail_screen.dart';
-import '../screens/rating_screen.dart'; // Burayı kontrol edeceğiz
-import '../screens/favorites_screen.dart'; // Yanlış import olabilir
+import '../screens/rating_screen.dart';
+import '../screens/favorites_screen.dart';
 import '../screens/settings.dart';
 import '../models/content.dart';
 import '../screens/favorites_detail_screen.dart';
