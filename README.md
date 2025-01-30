@@ -1,7 +1,7 @@
 # GeeksBook
 
 ![İstinye Üniversitesi](https://www.unitededucation.com/linklogoch/istinye-university-logo.png)
-(assets/images/logo.jpg)
+![logo](assets/images/logo.jpg)
 
 ## Proje Hakkında
 
