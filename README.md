@@ -138,7 +138,7 @@ https://github.com/user-attachments/assets/9738d9bd-3f00-49f4-8f2e-4edbed2e8842
 
 ## Lisans
 
-[Lisans türü] kapsamında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyebilirsiniz.
+FREE USE kapsamında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyebilirsiniz.
 
 
 
