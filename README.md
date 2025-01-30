@@ -149,7 +149,7 @@ https://github.com/user-attachments/assets/9738d9bd-3f00-49f4-8f2e-4edbed2e8842
 
 ## İletişim
 
-- Proje Bağlantısı: [GitHub repository linki]
+- Proje Bağlantısı: [[GitHub repository linki](https://github.com/CiyerSeven/GeeksBookv002)]
 
 - İstinye Üniversitesi: [https://www.istinye.edu.tr/](https://www.istinye.edu.tr/)
 
