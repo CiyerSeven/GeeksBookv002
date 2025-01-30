@@ -1,12 +1,11 @@
 # GeeksBook
 
 ![İstinye Üniversitesi](https://www.unitededucation.com/linklogoch/istinye-university-logo.png)
+(assets/images/logo.jpg)
 
 ## Proje Hakkında
 
-Geek’s Book, kullanıcıların izledikleri film ve dizileri kaydedip puanlayabileceği, yorumlarını paylaşabileceği ve başkalarının listelerine göz
-atabileceği bir platformdur.
-
+Geek’s Book, kullanıcıların izledikleri film, dizi ve animeleri yorumlayıp puanlayarak kaydedebileceği bir platformdur.
 
 ## Ekibimiz
 
