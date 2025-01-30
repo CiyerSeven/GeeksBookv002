@@ -21,14 +21,11 @@ atabileceği bir platformdur.
 
 ## Özellikler
 
-Sosyal Etkileşim Sistemi | Social Interaction System
-Platformumuz, kullanıcılar arasında zengin etkileşim olanakları sunar. Paylaşımlar, yorumlar, beğeniler ve özel mesajlaşma sistemi ile topluluk bağlarını güçlendirir. Kullanıcılar ilgi alanlarına göre gruplar oluşturabilir ve etkinlikler düzenleyebilir.
+İçerikleri incele! Aradığınız film, dizi ve animeler tek bir ekranda.
 
-İçerik Yönetimi | Content Management
-Çoklu medya desteği ile kullanıcılar yazı, görsel, video ve bağlantı paylaşabilir. Gelişmiş etiketleme sistemi ve kategoriler ile içerikler düzenli bir şekilde organize edilir. İçerik moderasyon sistemi topluluk standartlarını korur.
+Editörlerin yorumlarını oku ve izleyeceğin sıradaki içeriğe karar ver!
 
-Kişiselleştirme | Personalization
-Kullanıcılar profillerini özelleştirebilir, ilgi alanlarını belirtebilir ve tercihlerine göre içerik akışlarını düzenleyebilir. Özelleştirilebilir bildirim sistemi önemli güncellemeleri takip etmeyi sağlar.
+İzlediğin içerikleri kaydet, yorumla ve puanla!
 
 
 ## Kullanılan Teknolojiler
