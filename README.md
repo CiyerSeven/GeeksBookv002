@@ -1,18 +1,11 @@
 # GeeksBook
 
-# Flutter Projesi
-
-
-
 ![İstinye Üniversitesi](https://www.unitededucation.com/linklogoch/istinye-university-logo.png)
-
-
 
 ## Proje Hakkında
 
 Geek’s Book, kullanıcıların izledikleri film ve dizileri kaydedip puanlayabileceği, yorumlarını paylaşabileceği ve başkalarının listelerine göz
 atabileceği bir platformdur.
-
 
 
 ## Ekibimiz
@@ -44,10 +37,6 @@ Kullanıcılar profillerini özelleştirebilir, ilgi alanlarını belirtebilir v
 
 - Dart
 
-- [Diğer teknolojiler]
-
-
-
 ## Başlangıç
 
 
@@ -57,10 +46,6 @@ Kullanıcılar profillerini özelleştirebilir, ilgi alanlarını belirtebilir v
 - Flutter SDK (sürüm X.X.X)
 
 - Dart SDK (sürüm X.X.X)
-
-- [Diğer gerekli yazılımlar]
-
-
 
 ### Kurulum Adımları
 
@@ -126,8 +111,6 @@ lib/
 
 ## Ekran Görüntüleri
 
-[Uygulama ekran görüntüleri buraya eklenecek]
-
 
 
 ## Projeye Katkı Sağlama
@@ -161,10 +144,3 @@ lib/
 ## Teşekkürler
 
 - İstinye Üniversitesi'ne destekleri için teşekkür ederiz
-
-- [Diğer teşekkürler]
-
-
-
-
-Bunlari degistirmeniz gerekmektedir ;-)
