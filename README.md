@@ -108,7 +108,7 @@ lib/
 ```
 
 ## Demo Video
-[Video’yu İzle](assets/video/demo_video.mp4)
+https://www.youtube.com/watch?v=KrWW7Nq4zWI
 
 ## Ekran Görüntüleri
 ![Ana Sayfa](assets/screenshots/Screenshot_20250130_180054.png)
