@@ -1,0 +1,1 @@
+// sunucuya bağlanıp veri alışverişi burada gerçekleşecek

@@ -1,0 +1,71 @@
+name: geeksbook
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  cupertino_icons: ^1.0.8
+  dotlottie_loader: ^0.0.4
+  flutter:
+    sdk: flutter
+  flutter_secure_storage: ^9.2.2
+  flutter_svg: ^2.0.16
+  go_router: ^14.6.1
+  lottie: ^3.1.3
+  shared_preferences: ^2.3.3
+  google_fonts: ^6.2.1
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter_icons:
+  image_path: "icon.png"
+  android: true
+  ios: true
+  adaptive_icon_background: "#673AB7"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/Inception.jpg
+    - assets/icons/
+    - assets/fonts/
+    - assets/languages/
+    - assets/motions/arrow.json
+    - assets/logo.png
+    - assets/welcome.png
+    - assets/motions/login.json
+    - assets/images/break.jpg
+    - assets/images/aot.jpg
+    - assets/images/aot_backdrop.jpg
+    - assets/images/inception_backdrop.jpg
+    - assets/images/breaking_bad_backdrop.jpg
+    - assets/images/evangelion.jpg
+    - assets/images/evangelion_backdrop.jpg
+    - assets/images/one_piece_backdrop.jpg
+    - assets/images/one_piece.jpg
+    - assets/images/kill_bill_1.jpg
+    - assets/images/kill_bill_1_backdrop.jpg
+    - assets/motions/rate.json
+    - assets/motions/empty.json
+    - assets/motions/menu.json
+    - assets/motions/settings_animation.json
+    - assets/images/game_of_thrones.jpg
+    - assets/images/game_of_thrones_backdrop.jpg
+    - assets/images/dune.jpg
+    - assets/images/dune_backdrop.jpg
+    - assets/images/star_wars.jpg
+    - assets/images/star_wars_backdrop.jpg
+    - assets/images/black_mirror.jpg
+    - assets/images/black_mirror_backdrop.jpg
+    - assets/images/jojo_golden_wind.jpg
+    - assets/images/jojo_golden_wind_backdrop.jpg
+    - assets/images/xxxholic.jpg
+    - assets/images/xxxholic_backdrop.jpg
