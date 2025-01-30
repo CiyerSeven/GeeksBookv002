@@ -110,8 +110,13 @@ lib/
 
 
 ## Ekran Görüntüleri
-
-
+![Ana Sayfa](assets/screenshots/Screenshot_20250130_180054.png)
+![Ana Sayfa](assets/screenshots/Screenshot_20250130_180117.png)
+![Ana Sayfa](assets/screenshots/Screenshot_20250130_180136.png)
+![Ana Sayfa](assets/screenshots/Screenshot_20250130_180152.png)
+![Ana Sayfa](assets/screenshots/Screenshot_20250130_180223.png)
+![Ana Sayfa](assets/screenshots/Screenshot_20250130_180223.png)
+![Ana Sayfa](assets/screenshots/Screenshot_20250130_180251.png)
 
 ## Projeye Katkı Sağlama
 
