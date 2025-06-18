@@ -138,9 +138,7 @@ https://github.com/user-attachments/assets/9738d9bd-3f00-49f4-8f2e-4edbed2e8842
 
 ## Lisans
 
-FREE USE kapsamında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyebilirsiniz.
-
-
+Bu proje MIT Lisansi ile lisanslanmistir. Daha fazla bilgi icin `LICENSE` dosyasini inceleyebilirsiniz.
 
 ## İletişim
 
